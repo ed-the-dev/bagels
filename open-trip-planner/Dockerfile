@@ -5,3 +5,4 @@ FROM openjdk:21-jdk
 # run start server command
 
 # in docker compose, mount volume.
+ 
